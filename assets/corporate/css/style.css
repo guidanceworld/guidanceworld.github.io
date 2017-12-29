@@ -2830,13 +2830,13 @@ Demo Utils
 	display: none;
 }
 .front-steps-wrapper .front-step2:after {
-	border-left-color: #899199;	
+	border-left-color: #467a97;	
 }
 .front-steps-wrapper .front-step3:after {
-	border-left-color: #778089;	
+	border-left-color: #315569;	
 }
 .front-steps-wrapper .front-step4:after {
-	border-left-color: #727980;	
+	border-left-color: #fff;	
 }
 .front-steps-wrapper .front-step5:after {
 	border-left-color: #6E7278;	
