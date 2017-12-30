@@ -599,7 +599,7 @@ body.page-header-fixed {
 .header-navigation .dropdown-menu li > a {
   padding: 10px 15px;
   font-weight: 400;
-  color: #767f88;
+  color: #000066;
 }
 .header-navigation .dropdown-menu > li > a:hover,
 .header-navigation .dropdown-menu > li.active > a,
@@ -2183,7 +2183,7 @@ Demo Utils
 	right: -100px;
 }
 .recent-work .recent-work-item:hover .fa-link {
-	left: 30%;
+	left: 40%;
 }
 .recent-work .recent-work-item:hover .fa-search {
 	right: 30%;
@@ -2830,10 +2830,10 @@ Demo Utils
 	display: none;
 }
 .front-steps-wrapper .front-step2:after {
-	border-left-color: #467a97;	
+	border-left-color: #ed5c49;	
 }
 .front-steps-wrapper .front-step3:after {
-	border-left-color: #315569;	
+	border-left-color: #8ec63f;	
 }
 .front-steps-wrapper .front-step4:after {
 	border-left-color: #fff;	
