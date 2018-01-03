@@ -3077,3 +3077,8 @@ Styler Panel
 .fancybox-opened {
   z-index: 100001;
 }
+.content-page1 {
+	
+	padding: 20px;
+	margin-right: 10px;
+}
