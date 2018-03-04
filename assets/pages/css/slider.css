@@ -124,6 +124,11 @@
     background-size: cover;
     background-position: center center;
 }
+.carousel-slider .carousel-item-therteen {
+    background: url(../../../assets/pages/img/frontend-slider/bg10.jpg);
+    background-size: cover;
+    background-position: center center;
+}
 
 
 /* Carousel Titles */
